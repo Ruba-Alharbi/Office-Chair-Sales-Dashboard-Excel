@@ -5,19 +5,25 @@ Coursera Project to analyze office chair sales data of Q1-Q2 2020
 This data was a part of [Coursera Guided Project](https://www.coursera.org/projects/introduction-data-analysis-microsoft-excel) to analyze office chair sales data for Q1-Q2 2020.
 
 The data contains 80 rows as listed below:
-1. Num (ID)
-2. Date
-3. Month
-4. Sales Representative
-5.  Region
-6.  Customer ID
-7.  Model
-8.  Color
-9.  Item Code
-10.  Number (# of purchases)
-11.  Price / Unit
-12.  Total
+- Table 1:
+  1. Num (ID)
+  2.  Date
+  3. Month
+  4. Sales Representative
+  5. Region
+  6. Customer ID
+  7. Model
+  8. Color
+  9. Item Code
+  10. Number (# of purchases)
+  11. Price / Unit
+  12. Total
 
+- Table 2:
+  1. Customer Id
+  2. Company Name
+  3. Representative
+  
 ## New Columns
 1. Company Name _using VLOOKUP formual_
 2. Client Representative _using VLOOKUP formual_
